@@ -1,5 +1,5 @@
 ## Сквозная аналитика План-Факт для производственного холдинга (Power BI)
-![Power BI](https://github.com/Lanfrena/PowerBI_Projects_2026/blob/main/Dashboard_Sales_25_26.pdf)
+![Project Power BI](https://github.com/Lanfrena/PowerBI_Projects_2026/blob/main/Dashboard_Sales_25_26.pdf)
 
 1. Описание проекта
 - Разработка интерактивной панели управления (Dashboard) для мониторинга выполнения плана продаж в разрезе менеджеров и бизнес-направлений (Стройка, Мебель, Транспорт).
